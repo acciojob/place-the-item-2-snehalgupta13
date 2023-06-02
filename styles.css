@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.holder{
+	display : flex;
+	justify-content : center;
+	flex-wrap : wrap;
+}
+.square{
+	width : 100px;
+	height : 100px;
+}
